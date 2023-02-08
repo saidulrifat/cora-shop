@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("../../components/images/bg-banner.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 40rem;
+    
+}
