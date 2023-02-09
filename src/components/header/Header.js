@@ -8,7 +8,7 @@ const Header = () => {
             <div className='text-xl font-mono font-semibold '>
                 <a href="">Home</a>
                 <a href="">Shop</a>
-                <a className='relative inline-flex items-center hover:bg-sky-300 rounded-full px-3 py-2 ' href=""><span>Feature </span> <span class="absolute inline-flex items-center justify-center w-8 h-6 text-xs font-bold text-white bg-red-500  rounded-full -top-1 -right-3 ">HOT</span>
+                <a className='relative inline-flex items-center hover:bg-sky-300 rounded-full px-3 py-2 ' href=""><span>Feature </span> <span className="absolute inline-flex items-center justify-center w-8 h-6 text-xs font-bold text-white bg-red-500  rounded-full -top-1 -right-3 ">HOT</span>
 </a>
                 <a href="">About</a>
                 <a href="">Contact</a>
