@@ -4,3 +4,7 @@ div a{
 nav a:hover{
 color: #4f829c;
 }
+
+.feature-a:hover{
+    color: black;
+}
